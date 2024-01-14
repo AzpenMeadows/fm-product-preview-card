@@ -94,7 +94,7 @@ main {
 .heading {
     color: var(--color-heading);
     line-height: 2rem;
-    padding-right: 1rem;
+    padding-right: 2rem;
 }
 
 .text {
