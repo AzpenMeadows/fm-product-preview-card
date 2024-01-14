@@ -45,7 +45,8 @@ main {
 }
 
 .wrapper {
-    width: 93%;
+    width: 90%;
+    min-width: 21.5rem;
     max-width: var(--wrapper-max-width);
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -94,7 +95,7 @@ main {
 .heading {
     color: var(--color-heading);
     line-height: 2rem;
-    padding-right: 2rem;
+    padding-right: 1rem;
 }
 
 .text {
